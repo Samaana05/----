@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать и заполнить.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать_и_заполнить.Form1.resources
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать_и_заполнить.Properties.Resources.resources
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать и заполнить.csproj.GenerateResource.cache
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать и заполнить.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\bin\Debug\Создать и заполнить.exe.config
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\bin\Debug\Создать и заполнить.exe
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\bin\Debug\Создать и заполнить.pdb
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать и заполнить.exe
+C:\Users\User\Desktop\РКИС\Создать и заполнить\Создать и заполнить\obj\Debug\Создать и заполнить.pdb
