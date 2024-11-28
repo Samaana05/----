@@ -1,0 +1,12 @@
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\bin\Debug\wiwiwi.exe.config
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\bin\Debug\wiwiwi.exe
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\bin\Debug\wiwiwi.pdb
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.csproj.AssemblyReference.cache
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.Form1.resources
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.Properties.Resources.resources
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.csproj.GenerateResource.cache
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.csproj.CoreCompileInputs.cache
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.exe
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.pdb
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.Form2.resources
+C:\Users\enmam\source\repos\wiwiwi\wiwiwi\obj\Debug\wiwiwi.Form3.resources
